@@ -1,0 +1,12 @@
+SERENA GO — DEMO PARA TESIS
+
+1. Abrí esta carpeta desde Visual Studio Code (Archivo > Abrir carpeta).
+2. Abrí index.html en Chrome para visualizar la demo. También podés usar Live Server.
+3. Probá la página en el celular reduciendo el ancho de Chrome (F12 > icono de dispositivo).
+4. Para publicarla, subí index.html, styles.css, script.js y la carpeta assets a un repositorio de GitHub.
+5. En GitHub: Settings > Pages > Deploy from a branch > main > /(root) > Save.
+6. El enlace suele quedar en https://TU-USUARIO.github.io/NOMBRE-DEL-REPOSITORIO/
+
+La pantalla es una maqueta visual. Los botones muestran un aviso de demo, pero no registran usuarios ni procesan evaluaciones. La imagen de personas se recortó del diseño original de referencia.
+
+IMPORTANTE: los textos sobre confidencialidad, cifrado y profesionales forman parte del concepto de tesis, no representan funcionalidades implementadas.
